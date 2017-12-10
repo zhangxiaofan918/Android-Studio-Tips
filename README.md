@@ -20,6 +20,6 @@ command D  | 复制
 command shift V  | 查看之前复制过的内容
 command J  | 调出代码片段
 control option H  | 方法调用栈
-control O  | 重写父类的方法
+command O  | 重写父类的方法
 
 
