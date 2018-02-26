@@ -21,5 +21,11 @@ command shift V  | 查看之前复制过的内容
 command J  | 调出代码片段
 control option H  | 方法调用栈
 command O  | 重写父类的方法
+shift F6   | 重命名
+两次shift  | 快速定位到文件
+control Option O | 删除无用的import
+control H | 
+
+
 
 
