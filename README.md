@@ -6,7 +6,9 @@ Android Studio使用技巧
 `Keymaps为默认`
 
 #### 常规
-ctrl alt s  打开设置对话框
+ctrl alt s  打开设置对话框</br>
+alt 1  project</br>
+
 
 #### 导航和搜索
 两次shift 搜索全部内容（包括代码和菜单）</br>
@@ -78,7 +80,7 @@ shift f10 构建并运行
 
 查看最近变更	Alt + Shift + C</br>
 打开 VCS 弹出式菜单	Alt + `（反引号）</br>
-
+<font color=#FF0000>  version control alt+9 </font> 
 
 
 
