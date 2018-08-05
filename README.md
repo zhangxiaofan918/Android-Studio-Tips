@@ -6,7 +6,7 @@ Android Studio使用技巧
 `Keymaps为默认`
 
 #### 常规
-ctrl alt s  打开设置对话框</br>
+**ctrl alt s  打开设置对话框**</br>
 alt 1  project</br>
 
 
@@ -14,25 +14,25 @@ alt 1  project</br>
 两次shift 搜索全部内容（包括代码和菜单）</br>
 ctrl f 查找</br>
 ctrl alt shift n 按符号名称搜索</br>
-ctrl n 查找类</br>
-ctrl shift n 查找文件（不是类）</br>
+**ctrl n 查找类**</br>
+**ctrl shift n 查找文件（不是类）**</br>
 ctrl shift f 在路径中查找</br>
 ctrl e 最近打开的文件弹出式菜单</br>
 ctrl shift e 最近编辑的文件弹出式菜单</br>
 ctrl shift del 转到上一个编辑位置</br>
 ctrl h 打开类型层次结构</br>
-ctrl alt h 打开调用层次结构</br>
+**ctrl alt h 打开调用层次结构**</br>
 shift esc 隐藏活动或上一个活动工具窗口</br>
 
 #### 编写代码
-ctrl o 选择方法重写或导入</br>
+**ctrl o 选择方法重写或导入**</br>
 ctrl i 实现方法</br>
-ctrl alt t 控制语句 (if...else / try...catch / etc.)</br>
+**ctrl alt t 控制语句 (if...else / try...catch / etc.)**</br>
 ctrl 加减号 折叠/展开当前代码块</br>
-ctrl d 复制当前行或选择</br>
-ctrl b 转到声明（直接）</br>
-ctrl alt b 转到实现</br>
-ctrl u 转到超类方法/超类</br>
+**ctrl d 复制当前行或选择**</br>
+**ctrl b 转到声明（直接）**</br>
+**ctrl alt b 转到实现**</br>
+**ctrl u 转到超类方法/超类**</br>
 ctrl shift l 打开快速定义查找</br>
 Control + / 通过行注释添加注释/取消注释</br>
 Control + Shift + /  通过块注释添加注释/取消注释</br>
@@ -40,15 +40,15 @@ Control + [ 移动到代码块起始位置</br>
 Control + ] 移动到代码块结束位置</br>
 ctrl alt o 优化导入</br>
 Alt Enter  项目快速修复（显示意图操作和快速修复）</br>
-ctrl alert L 重新格式化代码</br>
+**ctrl alert L 重新格式化代码**</br>
 ctrl alert I 自动缩进行</br>
-shift tab 缩进/取消缩进行</br>
-shift enter 开始新行</br>
+**shift tab 缩进/取消缩进行**</br>
+**shift enter 开始新行**</br>
 shift f2 下一个/上一个突出显示的错误</br>
 
 #### 构建并运行
-ctrl f9 构建</br>
-shift f10 构建并运行
+**ctrl f9 构建**</br>
+**shift f10 构建并运行**
 
 #### 调试
 调试	Shift + F9	</br>
