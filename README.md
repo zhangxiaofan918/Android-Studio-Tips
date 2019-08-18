@@ -23,6 +23,8 @@ ctrl shift del 转到上一个编辑位置</br>
 ctrl h 打开类型层次结构</br>
 **ctrl alt h 打开调用层次结构**</br>
 shift esc 隐藏活动或上一个活动工具窗口</br>
+alt h 打开structure窗口
+alt -> <- 切换窗口页签
 
 #### 编写代码
 **ctrl o 选择方法重写或导入**</br>
